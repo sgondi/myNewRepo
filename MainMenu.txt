@@ -58,7 +58,7 @@ wr.setTitle("Waiting List");
 }
 if(ae.getSource()==m2_3) {
 Collection dcr = new Collection();
-dcr.setSize(400,400);
+dcr.setSize(500,500);
 dcr.setVisible(true);
 dcr.setTitle("Daily Collection Report");
 } if(ae.getSource()==m3_1) {
@@ -67,7 +67,7 @@ System.exit(0); }
 /*public static void main(String args[]) {
 MainMenu m = new MainMenu();
 m.setTitle("Main Menu");
-m.setSize(400,400);
+m.setSize(500,500);
 m.setVisible(true);
 }*/
 class M extends WindowAdapter {
