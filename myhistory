@@ -1,0 +1,29 @@
+    1  history
+    2  vim sum
+    3  history
+    4  ls
+    5  cd Ganesh
+    6  history
+    7  vim sum.c
+    8  ls
+    9  cd Ganesh
+   10  cd..
+   11  cd ..
+   12  git config --global user.name "Sai Ganesh"
+   13  git config --global user.email ganesh1813@gmail.com
+   14  ls
+   15  vim sum.c
+   16  git init
+   17  ls
+   18  git commit
+   19  git add
+   20  git add .
+   21  git commit
+   22  git status
+   23   git add .
+   24  git commit
+   25  git clone https://github.com/ganesh1813/Ganesh
+   26  git push origin master
+   27  git pull origin master
+   28  history
+   29  history>>myhistory
